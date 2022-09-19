@@ -1,0 +1,9 @@
+{
+  "name": "custom-kanjivg",
+  "version": "1.0.0",
+  "description": "My take on kvg format for web manipulation",
+  "main": "index.mjs",
+  "repository": "https://github.com/z16th/custom-kanjivg.git",
+  "author": "Elihu Munguía <47308963+z16th@users.noreply.github.com>",
+  "license": "MIT"
+}
