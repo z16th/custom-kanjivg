@@ -5,5 +5,9 @@
   "main": "index.mjs",
   "repository": "https://github.com/z16th/custom-kanjivg.git",
   "author": "Elihu Munguía <47308963+z16th@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "generate": "node .",
+    "example": "node server.mjs"
+  }
 }
