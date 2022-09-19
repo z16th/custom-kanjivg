@@ -32,6 +32,7 @@ KanjiVG: Kanji Vector Graphics
 
 ## Licence
 
+https://github.com/KanjiVG/kanjivg
 KanjiVG is copyright Ulrich Apel and released under the Creative Commons
 Attribution-Share Alike 3.0 licence:
 
