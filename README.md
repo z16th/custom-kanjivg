@@ -28,11 +28,11 @@ You can change the `replace` methods in the script to provide your own styles an
 
 # ⚠ About the original repo
 
+https://github.com/KanjiVG/kanjivg
 KanjiVG: Kanji Vector Graphics
 
 ## Licence
 
-https://github.com/KanjiVG/kanjivg
 KanjiVG is copyright Ulrich Apel and released under the Creative Commons
 Attribution-Share Alike 3.0 licence:
 
